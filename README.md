@@ -1,3 +1,4 @@
+# Hi, I'm a software engineer and neuroscientist at the University of Michigan interested in reverse-engineering the brain
 ![Grade Badge](https://img.shields.io/badge/Grade-A%2B-brightgreen)
 ![Achievement Badge](https://img.shields.io/badge/Achievement-Open%20Source%20Contributor-blue)
 
